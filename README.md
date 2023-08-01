@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/charles_athande" target="blank"><img src="https://img.shields.io/twitter/follow/charles_athande?logo=twitter&style=for-the-badge" alt="charles_athande" /></a> </p>
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **Nest.js**
 
 - 💬 Ask me about **JavaScript, Node.js, Python**
 
